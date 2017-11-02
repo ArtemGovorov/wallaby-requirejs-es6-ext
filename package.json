@@ -1,0 +1,7 @@
+{
+  "name": "wallaby-es6ext",
+  "version": "0.0.1",
+  "dependencies": {
+    "babel-core": "^6.26.0"
+  }
+}
